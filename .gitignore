@@ -1,0 +1,8 @@
+*~
+*.swp
+apolune
+
+# coverage files
+coverage.html
+coverage.out
+
